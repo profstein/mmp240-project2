@@ -1,23 +1,29 @@
-Statue of Liberty
-pexels-mora-versio-2150673251-34091093.jpg
-Photo by Mora Versio: https://www.pexels.com/photo/statue-of-liberty-in-new-york-city-usa-34091093/
+src: pexels-mora-versio-2150673251-34091093.jpg
+alt: Statue of Liberty
+caption: Photo by Mora Versio
+url: https://www.pexels.com/photo/statue-of-liberty-in-new-york-city-usa-34091093/
 
-Empire State Building with lower Manhattan in the background
-pexels-tracehudson-2424391.jpg
-Photo by Trace Hudson: https://www.pexels.com/photo/empire-state-building-2424391/
+src: pexels-tracehudson-2424391.jpg
+alt: Empire State Building with lower Manhattan in the background
+caption: Photo by Trace Hudson
+url: https://www.pexels.com/photo/empire-state-building-2424391/
 
-Staten Island Ferry pulling into the dock
-praswin-prakashan-YOCN1a1m_dg-unsplash.jpg
-Photo by Praswin Prakashan: https://unsplash.com/photos/a-large-ferry-boat-in-a-body-of-water-YOCN1a1m_dg
+src: praswin-prakashan-YOCN1a1m_dg-unsplash.jpg
+alt: Staten Island Ferry pulling into the dock
+caption: Photo by Praswin Prakashan
+url: https://unsplash.com/photos/a-large-ferry-boat-in-a-body-of-water-YOCN1a1m_dg
 
-Wonder Wheel ferris wheel at Coney Island
-pexels-kelsey-caroline-774981359-19122990.jpg
-Photo by Kelsey Caroline: https://www.pexels.com/photo/ferris-wheel-in-amusement-park-19122990/
+src: pexels-kelsey-caroline-774981359-19122990.jpg
+alt: Wonder Wheel ferris wheel at Coney Island
+caption: Photo by Kelsey Caroline
+url: https://www.pexels.com/photo/ferris-wheel-in-amusement-park-19122990/
 
-Yankee Stadium
-pexels-malcolmhill-12360516.jpg
-Photo by Malcolm Hill: https://www.pexels.com/photo/yankee-stadium-under-the-blue-sky-12360516/
+src: pexels-malcolmhill-12360516.jpg
+alt: Yankee Stadium
+caption: Photo by Malcolm Hill
+url: https://www.pexels.com/photo/yankee-stadium-under-the-blue-sky-12360516/
 
-Roosevelt Island Tramway leaving Manhattan
-pexels-loquellano-12404963.jpg
-Photo by Raphael Loquellano: https://www.pexels.com/photo/cable-car-above-city-street-12404963/
+src: pexels-loquellano-12404963.jpg
+alt: Roosevelt Island Tramway leaving Manhattan
+caption: Photo by Raphael Loquellano
+url: https://www.pexels.com/photo/cable-car-above-city-street-12404963/
